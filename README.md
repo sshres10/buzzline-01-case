@@ -2,7 +2,7 @@
 
 ### Producer
 The producer generates messages related to Arsenal FC:
-- Examples: Match updates, player news, and fan celebrations.
+- Examples: Players scoring and providing assists. 
 
 To run the producer:
 - **Windows**:
