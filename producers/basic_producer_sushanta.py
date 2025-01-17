@@ -47,9 +47,9 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating Arsenal FC buzz messages
-PLAYERS: list = ["Saka", "Martinelli", "Odegaard", "Raya", "Skelly"]
-ACTIONS: list = ["scored", "assisted", "saved", "celebrated", "trained"]
-MATCH_EVENTS: list = ["a goal", "a pass", "a save", "a tackle", "a win"]
+PLAYERS: list = ["Saka", "Martinelli", "Odegaard", "Saliba"]
+ACTIONS: list = ["scored a goal", "provided an assist","blocked a crucial shot", "made a game-winning play"]
+MATCH_EVENTS: list = ["in the first half", "in the second half", "during extra time", "to secure the victory", "to equalize the score"]
 
 #####################################
 # Define a function to generate buzz messages
